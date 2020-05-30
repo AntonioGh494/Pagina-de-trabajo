@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+	background: linear-gradient(315deg, #000000, #0f9b0f,#eee);
+	background-repeat: no-repeat;
+	background-size: 100vw 475vh;
+	background-image: Guitarra.jpg;
+
+}
+
+
+	
